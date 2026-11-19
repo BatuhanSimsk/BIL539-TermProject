@@ -1,0 +1,14 @@
+# Dependencies imported by M2.ipynb (Google Colab, GPU runtime).
+# Colab already ships all of these; this file documents them for local runs.
+# Versions are intentionally not pinned except where the saved run recorded them:
+# the reported run used torch 2.14.1 and torchvision 0.29.1 on a Tesla T4.
+# Replace with `pip freeze`-style pins from your Colab session if you want exact reproduction.
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+scikit-image
+pillow
+matplotlib
+tqdm

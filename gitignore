@@ -1,0 +1,13 @@
+# Data and caches (never commit; dataset images must not be redistributed)
+BUSCoT.zip
+data/
+bus-hier-work/
+*.npy
+*.npz
+# Model checkpoints
+*.pt
+*.pth
+# Misc
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
