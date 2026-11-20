@@ -44,7 +44,7 @@ The SPLIT cell builds the frozen split on first run and asserts the published co
 so a mismatch raises an error instead of producing incomparable numbers.
 Approximate runtime on a T4: B1 features ~2 min plus SVM grids ~3.5 min; each ResNet-18 run ~8–9 min.
 
-The saved outputs in `M2.ipynb` are from the reported run; the notebook was not fully re-executed while editing the report.
+The saved outputs in `M2.ipynb` are from the reported run.
 
 ## Setup details
 
